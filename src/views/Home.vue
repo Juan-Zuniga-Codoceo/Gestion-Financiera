@@ -79,7 +79,7 @@ export default {
       nombreUsuario: '',
       gastos: [], // Lista de gastos
       nuevoGasto: { nombre: '', cantidad: null, categoria: null },
-      categorias: ['Comida', 'Transporte', 'Entretenimiento', 'Ropa', 'Aseo','Mascotas','Salud','Otros'],
+      categorias: ['Salud', 'Educación', 'Casa', 'Comida', 'Transporte', 'Ropa', 'Aseo', 'Ocio', 'Mascotas', 'Otros'],
     };
   },
   computed: {
